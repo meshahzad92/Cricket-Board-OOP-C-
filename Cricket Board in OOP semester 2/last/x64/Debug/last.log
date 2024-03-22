@@ -1,0 +1,13 @@
+﻿  myconsole.cpp
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\myconsole.cpp(184,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\myconsole.cpp(185,32): warning C4305: '+=': truncation from 'double' to 'float'
+  mygraphics.cpp
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\mygraphics.cpp(110,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\mygraphics.cpp(110,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\Source.cpp(2439,29): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\Source.cpp(90): warning C4715: 'Sixer': not all control paths return a value
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\Source.cpp(107): warning C4715: 'Four': not all control paths return a value
+E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\last\Source.cpp(418): warning C4715: 'displayAllTeamsNames': not all control paths return a value
+  last.vcxproj -> E:\SHAHZAD\Projects in C++\Cricket Board in OOP semester 2\x64\Debug\last.exe
